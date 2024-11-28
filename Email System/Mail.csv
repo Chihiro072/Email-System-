@@ -1,0 +1,41 @@
+﻿emailID,sender,receiver,date,priority,subject,content
+E001,john@example.com,alice@example.com,10/21/2024 01:00,High,Meeting Reminder,Don't forget our meeting at 3 PM.
+E002,alex@example.com,alice@example.com,10/21/2024 02:00,Low,Project Update,The project is on track for completion next week.
+E003,john@example.com,sarah@example.com,10/21/2024 03:00,High,Meeting Reminder,Don't forget our meeting at 3 PM.
+E004,sarah@example.com,alice@example.com,10/21/2024 04:00,Medium,Lunch Plans,Shall we grab lunch at 12 PM?
+E005,john@example.com,alice@example.com,10/21/2024 05:00,Low,Invoice Details,Please find the attached invoice for last month.
+E006,alice@example.com,john@example.com,10/21/2024 06:00,Medium,Lunch Plans,Shall we grab lunch at 12 PM?
+E007,alice@example.com,sarah@example.com,10/21/2024 07:00,High,Project Deadline,The project deadline is approaching tomorrow.
+E008,john@example.com,sarah@example.com,10/21/2024 08:00,High,Meeting Reminder,Don't forget our meeting at 3 PM.
+E009,alice@example.com,john@example.com,10/21/2024 09:00,Low,Re: Your Query,Thank you for your email. I will get back to you soon.
+E010,john@example.com,sarah@example.com,10/21/2024 10:00,High,Meeting Reminder,Don't forget our meeting at 3 PM.
+E011,john@example.com,sarah@example.com,10/21/2024 11:00,High,Meeting Reminder,Don't forget our meeting at 6 PM.
+E012,sarah@example.com,alex@example.com,10/21/2024 12:00,Low,Weekly Summary,Here is the weekly summary of our progress.
+E013,sarah@example.com,john@example.com,10/21/2024 13:00,Medium,Feedback Request,Can you provide feedback on the recent changes?
+E014,alex@example.com,john@example.com,10/21/2024 14:00,High,Project Deadline,The project deadline is approaching tomorrow.
+E015,alice@example.com,alex@example.com,10/21/2024 15:00,Low,Invoice Details,Please find the attached invoice for last month.
+E016,alice@example.com,john@example.com,10/21/2024 16:00,Low,Weekly Summary,Here is the weekly summary of our progress.
+E017,alex@example.com,alice@example.com,10/21/2024 17:00,High,Meeting Reminder,Don't forget our meeting at 6 PM.
+E018,alex@example.com,john@example.com,10/21/2024 18:00,Medium,Feedback Request,Can you provide feedback on the recent changes?
+E019,alex@example.com,john@example.com,10/21/2024 19:00,High,Project Deadline,The project deadline is approaching tomorrow.
+E020,john@example.com,alice@example.com,10/21/2024 20:00,Low,Invoice Details,Please find the attached invoice for last month.
+E021,alex@example.com,alice@example.com,10/21/2024 21:00,Medium,Project Update,The project is on track for completion next week.
+E022,alex@example.com,john@example.com,10/21/2024 22:00,Low,Weekly Summary,Here is the weekly summary of our progress.
+E023,sarah@example.com,alex@example.com,10/21/2024 23:00,Medium,Feedback Request,Can you provide feedback on the recent changes?
+E024,john@example.com,sarah@example.com,10/21/2024 00:30,High,Meeting Reminder,Don't forget our meeting at 9 PM.
+E025,sarah@example.com,alex@example.com,10/21/2024 01:30,High,Project Deadline,The project deadline is approaching tomorrow.
+E026,alice@example.com,alex@example.com,10/21/2024 02:30,Low,Invoice Details,Please find the attached invoice for last month.
+E027,alex@example.com,sarah@example.com,10/21/2024 03:30,Medium,Project Update,The project is on track for completion next week.
+E028,alice@example.com,john@example.com,10/21/2024 04:30,Low,Weekly Summary,Here is the weekly summary of our progress.
+E029,alex@example.com,alice@example.com,10/21/2024 05:30,High,Meeting Reminder,Don't forget our meeting at 9 PM.
+E030,alice@example.com,alex@example.com,11/12/2024 06:30,Medium,Feedback Request,Can you provide feedback on the recent changes?
+E031,alice@example.com,john@example.com,11/12/2024 07:30,Medium,Lunch Plans,Shall we grab lunch at 12 PM?
+E032,alice@example.com,john@example.com,11/12/2024 08:30,Medium,Testing,Yes sir…
+E033,alice@example.com,john@example.com,11/12/2024 09:30,Low,Re: Your Query,Thank you for your email. I will get back to you soon.
+E034,alice@example.com,john@example.com,11/21/2024 10:30,High,Update Check,"Hello Alice, here’s an important update."
+E035,alice@example.com,john@example.com,11/21/2024 11:30,High,Update Check,Please check this update.
+E036,alice@example.com,john@example.com,11/21/2024 12:30,High,Urgent!!!,Don't forget to read this!
+E037,alice@example.com,john@example.com,11/21/2024 13:30,High,Reminder,Reminder for you to review.
+E038,alice@example.com,john@example.com,11/21/2024 14:30,High,Reminder,Final reminder for the update.
+E039,alice@example.com,john@example.com,11/21/2024 15:30,Low,Give Up,I give up already
+E040,alice@example.com,alex@example.com,11/23/2024 16:30,Medium,Heads Up,Hey… I heard you've been ignoring john? Is that true?

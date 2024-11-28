@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|solutionrelative:User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\User.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|solutionrelative:User.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Queue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|solutionrelative:Queue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Stack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|solutionrelative:Stack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Email Node.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|solutionrelative:Email Node.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Email System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|solutionrelative:Email System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|solutionrelative:Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE8489FC-3216-404A-A0A2-CCA0118D4756}|Email System.vcxproj|solutionrelative:Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cpp",
+              "DocumentMoniker": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T08:50:19.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.hpp",
+              "DocumentMoniker": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\User.hpp",
+              "RelativeDocumentMoniker": "User.hpp",
+              "ToolTip": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\User.hpp",
+              "RelativeToolTip": "User.hpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T08:50:11.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue.hpp",
+              "DocumentMoniker": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Queue.hpp",
+              "RelativeDocumentMoniker": "Queue.hpp",
+              "ToolTip": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Queue.hpp",
+              "RelativeToolTip": "Queue.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T08:50:04.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.hpp",
+              "DocumentMoniker": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Stack.hpp",
+              "RelativeDocumentMoniker": "Stack.hpp",
+              "ToolTip": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Stack.hpp",
+              "RelativeToolTip": "Stack.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T08:49:57.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Email Node.hpp",
+              "DocumentMoniker": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Email Node.hpp",
+              "RelativeDocumentMoniker": "Email Node.hpp",
+              "ToolTip": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Email Node.hpp",
+              "RelativeToolTip": "Email Node.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T08:48:28.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Email System.cpp",
+              "DocumentMoniker": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Email System.cpp",
+              "RelativeDocumentMoniker": "Email System.cpp",
+              "ToolTip": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Email System.cpp",
+              "RelativeToolTip": "Email System.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T08:46:29.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack.cpp",
+              "ToolTip": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Stack.cpp",
+              "RelativeToolTip": "Stack.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T08:50:29.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Queue.cpp",
+              "RelativeDocumentMoniker": "Queue.cpp",
+              "ToolTip": "D:\\APU\\DEGREEE\\Y2 SEM2\\DSTR\\ptr\\Email System\\Queue.cpp",
+              "RelativeToolTip": "Queue.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T08:50:34.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
